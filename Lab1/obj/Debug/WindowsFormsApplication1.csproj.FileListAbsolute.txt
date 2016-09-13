@@ -1,0 +1,20 @@
+D:\Учебные материалы\coding\threecs\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Учебные материалы\coding\threecs\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Учебные материалы\coding\threecs\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Учебные материалы\coding\threecs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Учебные материалы\coding\threecs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Учебные материалы\coding\threecs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Учебные материалы\coding\threecs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Учебные материалы\coding\threecs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Учебные материалы\coding\threecs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Учебные материалы\4 курс\ИскИн\Lab1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Учебные материалы\4 курс\ИскИн\Lab1\obj\Debug\WindowsFormsApplication1.exe
+D:\Учебные материалы\4 курс\ИскИн\Lab1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Учебные материалы\4 курс\ИскИн\Lab1\bin\Debug\WindowsFormsApplication1.exe
+D:\Учебные материалы\4 курс\ИскИн\Lab1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Учебные материалы\4 курс\ИскИн\Lab1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Учебные материалы\4 курс\ИскИн\Lab1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Учебные материалы\4 курс\ИскИн\Lab1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Учебные материалы\4 курс\ИскИн\Lab1\obj\Debug\WindowsFormsApplication1.FormBase.resources
+D:\Учебные материалы\4 курс\ИскИн\Lab1\obj\Debug\WindowsFormsApplication1.FormInitialization.resources
+D:\Учебные материалы\4 курс\ИскИн\Lab1\obj\Debug\WindowsFormsApplication1.FormLeveling.resources

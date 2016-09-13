@@ -1,0 +1,19 @@
+git init - инит репозитория в папке
+git add -A   - добавить всё
+git commit - сохранить состояние
+	i - ввод
+	\\коммент\\
+	'esc'
+	: - переход в сложные комманды
+	wq - запись, выход
+git reset --hard  - возврат к последнему состоянию
+git log - список коммитов
+git checkout 'имя коммита (от 8 знаков хэша)' - переход к данному комиту
+git checkout master - переход в основную ветку
+git checkout -b 'имя' - Создание новой ветви и переход в нее
+git merge 'имя' - слияние текущей ветви с 'имя'
+git remote add 'name' 'adress' - наименование адреса
+git push 'server_name'/'branch_name on the server' - отправка всей ветви на сервер
+git push --set-upstream 'server_name'  'branch_name on the server' - сохраняет имя и адрес как основные и производит отправку на сервер
+git pull - захват данных с сервера
+git clone 'adress_of_server' - Полное копирование репозитория
