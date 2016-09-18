@@ -17,3 +17,4 @@ git push 'server_name'/'branch_name on the server' - отправка всей ветви на серв
 git push --set-upstream 'server_name'  'branch_name on the server' - сохраняет имя и адрес как основные и производит отправку на сервер
 git pull - захват данных с сервера
 git clone 'adress_of_server' - Полное копирование репозитория
+1
